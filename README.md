@@ -1,6 +1,6 @@
 # Sayiqa-Speech-App
 
--**title:** Voice Clone
+- **title:** Voice Clone
 
 - **emoji:** 🌍
 
@@ -16,7 +16,7 @@
 
 - **pinned:** false
 
-_ **license:** mit
+- **license:** mit
 
 
 
