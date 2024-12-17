@@ -1,6 +1,6 @@
 # Sayiqa-Speech-App
 
-#title: Voice Clone
+title: Voice Clone
 
 emoji: 🌍
 
@@ -8,7 +8,7 @@ colorFrom: pink
 
 colorTo: green
 
-sdk: gradio
+- **SDK:** Gradio
 
 sdk_version: 5.9.1
 
