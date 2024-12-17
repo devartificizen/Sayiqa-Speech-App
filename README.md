@@ -10,13 +10,13 @@
 
 - **SDK:** gradio
 
--**sdk_version:** 5.9.1
+- **sdk_version:** 5.9.1
 
--**app_file:** app.py
+- **app_file:** app.py
 
--**pinned:** false
+- **pinned:** false
 
-_**license:** mit
+_ **license:** mit
 
 
 
