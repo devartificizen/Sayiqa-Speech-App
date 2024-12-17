@@ -1,14 +1,14 @@
 # Sayiqa-Speech-App
 ---
-title: Speech App
-emoji: 🌍
-colorFrom: green
-colorTo: blue
-sdk: gradio
-sdk_version: 5.9.1
-app_file: app.py
-pinned: false
-license: mit
+"title: Speech App\n",
+"emoji: 🌍\n",
+"colorFrom: green\n",
+"colorTo: blue\n",
+"sdk: gradio\n",
+"sdk_version: 5.9.1\n",
+"app_file: app.py\n",
+"pinned: false\n",
+"license: mit\n",
 ---
 
 
