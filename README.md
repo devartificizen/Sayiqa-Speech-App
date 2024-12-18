@@ -256,9 +256,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - Hugging Face for providing the transformers and diffusers libraries.
 - Gradio for the user-friendly interface framework.
 
-## Contact
 
-For any questions or feedback, please contact [sayiqajabeen14@gmail.com](mailto\:sayiqajabeen14@gmail.com).
 
 
 
