@@ -1,24 +1,22 @@
 # Sayiqa-Speech-App
 
-- **title:** Voice Clone
-
   [title](mailto\:title): Voice Clone
 
-- **emoji:** 🌍
+  [emoji](mailto\:emoji): 🌍
 
-- **colorFrom:** pink
+  [color](mailto\:color): green
 
-- **colorTo:** green
+  [color](mailto\:colorTo): blue
 
-- **SDK:** gradio
+  [SDK](mailto\:SDK): gradio
 
-- **sdk_version:** 5.9.1
+  [sdk_version](mailto\:sdk_version): 5.9.1
 
-- **app_file:** app.py
+  [app_file](mailto\:app_file): app.py
 
-- **pinned:** false
+  [pinned](mailto\:pinned): false
 
-- **license:** mit
+  [license](mailto\:license): mit
 
 # Voice-to-Image and Speech-to-Text Application
 
