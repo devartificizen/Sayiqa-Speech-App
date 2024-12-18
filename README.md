@@ -164,8 +164,8 @@ To run this project locally, ensure you have Python 3.8 or higher installed, the
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/voice-to-image-app.git
-   cd voice-to-image-app
+   git clone https://github.com/devartificizen/Sayiqa-Speech-App.git
+   cd Sayiqa-Speech-App
    ```
 
 2. Install the required libraries:
