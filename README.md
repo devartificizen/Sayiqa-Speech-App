@@ -2,7 +2,7 @@
 
 - **title:** Voice Clone
 
-  [title](mailto\:title).
+  [title](mailto\:title): Voice Clone
 
 - **emoji:** 🌍
 
