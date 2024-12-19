@@ -4,9 +4,9 @@
 
   [emoji](mailto\:emoji): 🌍
 
-  [color](mailto\:color): green
+  [colorFrom](mailto\:colorFrom): yellow
 
-  [color](mailto\:colorTo): blue
+  [colorTo](mailto\:colorTo): blue
 
   [SDK](mailto\:SDK): gradio
 
