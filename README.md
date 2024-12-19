@@ -147,7 +147,7 @@ This project is a Gradio-based web application that provides the following featu
 
 ## Features
 
-### Speech-to-Text Transcription
+### Speech-to-Text/Voice Cloning Transcription
 
 - Supports audio files longer than 20 minutes by chunking the audio into smaller parts for processing.
 - Utilizes OpenAI's Whisper model for accurate transcription.
